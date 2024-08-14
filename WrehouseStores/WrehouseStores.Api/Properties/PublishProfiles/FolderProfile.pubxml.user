@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\warehouse\WrehouseStores\WrehouseStores.Api\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-07-29T06:28:42.5478449Z||;True|2024-07-08T14:45:38.0447402+02:00||;True|2024-07-08T14:24:39.4860652+02:00||;True|2024-07-08T14:06:24.6329324+02:00||;True|2024-07-08T13:36:49.5583336+02:00||;False|2024-07-08T13:36:26.0903712+02:00||;False|2024-07-08T13:35:33.0386326+02:00||;True|2024-07-08T13:33:40.7747174+02:00||;True|2024-07-08T13:28:05.0592072+02:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

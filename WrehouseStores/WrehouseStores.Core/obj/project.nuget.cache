@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RKzWPGizDYWT7MYco1218nKFXx4YpwDrRzNjR54ZTzOjhFXhEgmz91U9NaEEmY6ntPFitaOWolKIlrRI+KtUaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\WarehouseStores.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merna\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\merna\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\merna\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\merna\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\merna\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\merna\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\merna\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

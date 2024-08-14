@@ -1,0 +1,1759 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\repositories\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\repositories\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\interfaces\\istoragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\interfaces\\istoragerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\repositories\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\repositories\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\missingproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\missingproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\dbcontext\\storagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\dbcontext\\storagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\dashboarddtos\\customerorderstatussearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\dashboarddtos\\customerorderstatussearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\dashboarddtos\\missingproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\dashboarddtos\\missingproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\controllers\\customerordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\controllers\\customerordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\customerorderdtos\\customerordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\customerorderdtos\\customerordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\statusdtos\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\statusdtos\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\customerorderdtos\\customerorderwithpaginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\customerorderdtos\\customerorderwithpaginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\dashboarddtos\\simplecustomerordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\dashboarddtos\\simplecustomerordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\productdtos\\simpleproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\productdtos\\simpleproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\billdtos\\billadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\billdtos\\billadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\data\\migrations\\20240805111900_updatebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\data\\migrations\\20240805111900_updatebill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\helper\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\helper\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\billdtos\\addbillrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\billdtos\\addbillrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\customerordersproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\customerordersproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\customerorderdtos\\addcustomerorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\customerorderdtos\\addcustomerorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\productdtos\\productadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\productdtos\\productadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\purchaseorderdtos\\purchaseorderwithpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\purchaseorderdtos\\purchaseorderwithpagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\purchaseorderdtos\\purchaseorderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\purchaseorderdtos\\purchaseorderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\purchaseorderdtos\\purchaseorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\purchaseorderdtos\\purchaseorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\productdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\productdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\billdtos\\billdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\billdtos\\billdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\controllers\\purchaseordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\controllers\\purchaseordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\dashboarddtos\\pendingorderschangedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\dashboarddtos\\pendingorderschangedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\productdtos\\productwithexpirydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\productdtos\\productwithexpirydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\dashboarddtos\\productsneartoexpiredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\dashboarddtos\\productsneartoexpiredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\dashboarddtos\\storageproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\dashboarddtos\\storageproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\storagedtos\\storageresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\storagedtos\\storageresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\repositories\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\repositories\\statusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\repositories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\repositories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\repositories\\recievedorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\repositories\\recievedorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\repositories\\purchaseorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\repositories\\purchaseorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\interfaces\\ipurchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\interfaces\\ipurchaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\categorydtos\\simplecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\categorydtos\\simplecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\recievedorderdtos\\storedordersearchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\recievedorderdtos\\storedordersearchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\controllers\\recievedorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\controllers\\recievedorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\customerorderdtos\\customerordersearchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\customerorderdtos\\customerordersearchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\purchaseorderdtos\\purchaseorderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\purchaseorderdtos\\purchaseorderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\categorydtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\categorydtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\interfaces\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\interfaces\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\reportdtos\\searchreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\reportdtos\\searchreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\reportdtos\\stockstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\reportdtos\\stockstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\reportdtos\\stockreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\reportdtos\\stockreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\interfaces\\icustomerordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\interfaces\\icustomerordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\customerorderdtos\\readyorderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\customerorderdtos\\readyorderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\customerdtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\customerdtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\recievedorderdtos\\recievedordersearchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\recievedorderdtos\\recievedordersearchrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\purchaseorderdtos\\searchpurchaseorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\purchaseorderdtos\\searchpurchaseorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF377BC5-5013-4EF1-AB63-678B3E1FB4A2}|WrehouseStores.Api\\WarehouseStores.Api.csproj|solutionrelative:wrehousestores.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\interfaces\\ireceivedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\interfaces\\ireceivedorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\billdtos\\salessupplyformdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\billdtos\\salessupplyformdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\billdtos\\salessupplyformwithpaginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\billdtos\\salessupplyformwithpaginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\supplierdtos\\supplierwithpaginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\supplierdtos\\supplierwithpaginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\purchaseorderdtos\\purchaseorderadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\purchaseorderdtos\\purchaseorderadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\customerorderdtos\\addreadyorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\customerorderdtos\\addreadyorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\billdtos\\productionbilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\billdtos\\productionbilldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\customerorderdtos\\readyorderswithpaginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\customerorderdtos\\readyorderswithpaginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\interfaces\\isuppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\interfaces\\isuppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\customerorderdtos\\customerorderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\customerorderdtos\\customerorderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\received orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\received orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\readyorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\readyorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\models\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\supplierdtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\supplierdtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\recievedorderdtos\\recievedorderwithstoragedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\recievedorderdtos\\recievedorderwithstoragedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\customerorderdtos\\readyordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\customerorderdtos\\readyordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\prioritydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\prioritydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\dto\\customerdtos\\customerwithpaginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\dto\\customerdtos\\customerwithpaginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.core\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8B1B34-BCBE-4C9D-97C4-6311B965D93A}|WrehouseStores.Core\\WarehouseStores.Core.csproj|solutionrelative:wrehousestores.core\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\data\\migrations\\20240729125936_deleteavailabilitydatecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\data\\migrations\\20240729125936_deleteavailabilitydatecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\data\\migrations\\20240729064721_removecurrentstockfromproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\data\\migrations\\20240729064721_removecurrentstockfromproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\warehouse\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240728073340_CorrectDecimalAndConstraints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\warehouse\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240728072604_Update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\data\\migrations\\20240730080011_updatedatetodatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\data\\migrations\\20240730080011_updatedatetodatetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\data\\migrations\\20240730073708_updatedatetoallownull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\data\\migrations\\20240730073708_updatedatetoallownull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\data\\migrations\\20240730065649_addsalestax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\data\\migrations\\20240730065649_addsalestax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|c:\\users\\merna\\downloads\\warehousecopy\\warehousecopy\\wrehousestores\\wrehousestores.repository\\data\\migrations\\20240803095539_addpurchaseorderproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686EF75E-2EFE-4672-BD0A-6722DDC257DB}|WrehouseStores.Repository\\WarehouseStores.Repository.csproj|solutionrelative:wrehousestores.repository\\data\\migrations\\20240803095539_addpurchaseorderproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\StorageController.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\Controllers\\StorageController.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\StorageController.cs",
+              "RelativeToolTip": "WrehouseStores.Api\\Controllers\\StorageController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA8wBgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:52:26.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StorageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\StorageRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Repositories\\StorageRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\StorageRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Repositories\\StorageRepository.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:47:55.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStorageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\IStorageRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Interfaces\\IStorageRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\IStorageRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Interfaces\\IStorageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T06:29:06.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Repositories\\DashboardRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\DashboardRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Repositories\\DashboardRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:58:14.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WrehouseStores.Api\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAwI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:57:52.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MissingProducts.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\MissingProducts.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\MissingProducts.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\MissingProducts.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\MissingProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:03:18.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Products.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\Products.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T09:35:05.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StorageDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\DBContext\\StorageDbContext.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\DBContext\\StorageDbContext.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\DBContext\\StorageDbContext.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\DBContext\\StorageDbContext.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAA4wKMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:28:55.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerOrderStatusSearchDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\DashboardDtos\\CustomerOrderStatusSearchDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\DashboardDtos\\CustomerOrderStatusSearchDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\DashboardDtos\\CustomerOrderStatusSearchDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\DashboardDtos\\CustomerOrderStatusSearchDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:32:25.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\appsettings.Development.json",
+              "RelativeToolTip": "WrehouseStores.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T07:14:18.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\appsettings.json",
+              "RelativeToolTip": "WrehouseStores.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T07:26:02.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MissingProductsDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\DashboardDtos\\MissingProductsDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\DashboardDtos\\MissingProductsDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\DashboardDtos\\MissingProductsDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\DashboardDtos\\MissingProductsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T11:34:02.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\CustomerOrderController.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\Controllers\\CustomerOrderController.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\CustomerOrderController.cs",
+              "RelativeToolTip": "WrehouseStores.Api\\Controllers\\CustomerOrderController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAmwGQAAAC7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:39:20.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerOrdersDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrdersDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrdersDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrdersDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrdersDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:08:33.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\StatusDtos\\StatusDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\StatusDtos\\StatusDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\StatusDtos\\StatusDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\StatusDtos\\StatusDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:45:05.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerOrderWithPaginationDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrderWithPaginationDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrderWithPaginationDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrderWithPaginationDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrderWithPaginationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:48:25.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SimpleCustomerOrdersDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\DashboardDtos\\SimpleCustomerOrdersDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\DashboardDtos\\SimpleCustomerOrdersDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\DashboardDtos\\SimpleCustomerOrdersDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\DashboardDtos\\SimpleCustomerOrdersDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:19:57.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\Controllers\\BillController.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\BillController.cs",
+              "RelativeToolTip": "WrehouseStores.Api\\Controllers\\BillController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAEwFUAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:15:13.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SimpleProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\ProductDtos\\SimpleProductDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\ProductDtos\\SimpleProductDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\ProductDtos\\SimpleProductDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\ProductDtos\\SimpleProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:06:56.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240805111900_UpdateBill.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240805111900_UpdateBill.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Data\\Migrations\\20240805111900_UpdateBill.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240805111900_UpdateBill.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Data\\Migrations\\20240805111900_UpdateBill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:19:00.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Helper\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\Helper\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Helper\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "WrehouseStores.Api\\Helper\\Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwFsAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:39:59.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BillAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\BillDtos\\BillAddDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\BillDtos\\BillAddDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\BillDtos\\BillAddDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\BillDtos\\BillAddDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:03:33.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerOrdersProducts.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\CustomerOrdersProducts.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\CustomerOrdersProducts.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\CustomerOrdersProducts.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\CustomerOrdersProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:38:29.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddBillRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\BillDtos\\AddBillRequestDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\BillDtos\\AddBillRequestDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\BillDtos\\AddBillRequestDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\BillDtos\\AddBillRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:24:47.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddCustomerOrderRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\AddCustomerOrderRequestDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\AddCustomerOrderRequestDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\AddCustomerOrderRequestDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\AddCustomerOrderRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:32:09.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\ProductDtos\\ProductAddDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\ProductDtos\\ProductAddDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\ProductDtos\\ProductAddDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\ProductDtos\\ProductAddDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:48:39.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PurchaseOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:10:20.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PurchaseOrderProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderProductDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderProductDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderProductDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:41:20.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PurchaseOrderWithPagination.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderWithPagination.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderWithPagination.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderWithPagination.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderWithPagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:15:28.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductDates.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\ProductDates.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\ProductDates.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\ProductDates.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\ProductDates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:52:20.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\EmployeeDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:32:44.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BillDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\BillDtos\\BillDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\BillDtos\\BillDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\BillDtos\\BillDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\BillDtos\\BillDto.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwB4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T12:21:32.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Program.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Program.cs",
+              "RelativeToolTip": "WrehouseStores.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:08:20.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Employees.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:30:46.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\Bill.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Bill.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\Bill.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:25:08.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PurchaseOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\PurchaseOrderController.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\Controllers\\PurchaseOrderController.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\PurchaseOrderController.cs",
+              "RelativeToolTip": "WrehouseStores.Api\\Controllers\\PurchaseOrderController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAADwv00AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:18:01.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PendingOrdersChangeDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\DashboardDtos\\PendingOrdersChangeDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\DashboardDtos\\PendingOrdersChangeDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\DashboardDtos\\PendingOrdersChangeDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\DashboardDtos\\PendingOrdersChangeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:01:07.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductWithExpiryDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\ProductDtos\\ProductWithExpiryDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\ProductDtos\\ProductWithExpiryDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\ProductDtos\\ProductWithExpiryDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\ProductDtos\\ProductWithExpiryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T09:38:39.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductsNearToExpireDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\DashboardDtos\\ProductsNearToExpireDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\DashboardDtos\\ProductsNearToExpireDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\DashboardDtos\\ProductsNearToExpireDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\DashboardDtos\\ProductsNearToExpireDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:01:15.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Storage.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\Storage.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Storage.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\Storage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T11:47:29.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StorageProductsDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\DashboardDtos\\StorageProductsDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\DashboardDtos\\StorageProductsDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\DashboardDtos\\StorageProductsDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\DashboardDtos\\StorageProductsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:56:38.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "StorageResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\StorageDtos\\StorageResponseDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\StorageDtos\\StorageResponseDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\StorageDtos\\StorageResponseDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\StorageDtos\\StorageResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:02:22.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Status.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:35:52.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Stock.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\Stock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:20:56.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Repositories\\SupplierRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\SupplierRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Repositories\\SupplierRepository.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAcwDUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:32:02.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "StatusRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\StatusRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Repositories\\StatusRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\StatusRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Repositories\\StatusRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:10:46.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Repositories\\ReportRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\ReportRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Repositories\\ReportRepository.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:25:20.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RecievedOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\RecievedOrderRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Repositories\\RecievedOrderRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\RecievedOrderRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Repositories\\RecievedOrderRepository.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAuwNUAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:12:03.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PurchaseOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\PurchaseOrderRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Repositories\\PurchaseOrderRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\PurchaseOrderRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Repositories\\PurchaseOrderRepository.cs",
+              "ViewState": "AQIAAEABAAAAAAAAAAAuwDsBAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:57:38.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAuwOYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:17:58.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwFgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:09:27.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IPurchaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\IPurchaseRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Interfaces\\IPurchaseRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\IPurchaseRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Interfaces\\IPurchaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T08:35:15.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwHQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:23:47.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SimpleCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CategoryDtos\\SimpleCategoryDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\CategoryDtos\\SimpleCategoryDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CategoryDtos\\SimpleCategoryDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\CategoryDtos\\SimpleCategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:22:14.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RecievedOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\RecievedOrdersController.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\Controllers\\RecievedOrdersController.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\RecievedOrdersController.cs",
+              "RelativeToolTip": "WrehouseStores.Api\\Controllers\\RecievedOrdersController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAewDAAAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:24:34.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CustomerOrderSearchRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrderSearchRequestDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrderSearchRequestDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrderSearchRequestDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrderSearchRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:24:03.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "StoredOrderSearchRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\RecievedOrderDtos\\StoredOrderSearchRequestDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\RecievedOrderDtos\\StoredOrderSearchRequestDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\RecievedOrderDtos\\StoredOrderSearchRequestDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\RecievedOrderDtos\\StoredOrderSearchRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:36:15.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "20240803095539_AddPurchaseOrderProductsTable.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240803095539_AddPurchaseOrderProductsTable.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Data\\Migrations\\20240803095539_AddPurchaseOrderProductsTable.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240803095539_AddPurchaseOrderProductsTable.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Data\\Migrations\\20240803095539_AddPurchaseOrderProductsTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:55:39.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PurchaseOrderUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderUpdateDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderUpdateDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderUpdateDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderUpdateDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:00:09.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:55:49.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WrehouseStores.Api\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwDMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T11:38:42.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "WrehouseStores.Api\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:27:53.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CategoryDtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\CategoryDtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CategoryDtos\\CategoryDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\CategoryDtos\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:09:46.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "StockReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\ReportDtos\\StockReportDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\ReportDtos\\StockReportDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\ReportDtos\\StockReportDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\ReportDtos\\StockReportDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:22:19.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\IReportRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Interfaces\\IReportRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\IReportRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Interfaces\\IReportRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:24:51.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "SearchReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\ReportDtos\\SearchReportDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\ReportDtos\\SearchReportDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\ReportDtos\\SearchReportDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\ReportDtos\\SearchReportDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:35:19.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "StockStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\ReportDtos\\StockStatusDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\ReportDtos\\StockStatusDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\ReportDtos\\StockStatusDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\ReportDtos\\StockStatusDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:22:44.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "WrehouseStores.Api\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAcwDcAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:30:29.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ICustomerOrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\ICustomerOrdersRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Interfaces\\ICustomerOrdersRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\ICustomerOrdersRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Interfaces\\ICustomerOrdersRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:30:50.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "WrehouseStores.Api\\Controllers\\StatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:22:11.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WrehouseStores.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDgAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T10:02:28.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ReadyOrderUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\ReadyOrderUpdateDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\ReadyOrderUpdateDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\ReadyOrderUpdateDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\ReadyOrderUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:13:13.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerDtos\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\CustomerDtos\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerDtos\\CustomerDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\CustomerDtos\\CustomerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T06:39:05.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RecievedOrderSearchRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\RecievedOrderDtos\\RecievedOrderSearchRequestDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\RecievedOrderDtos\\RecievedOrderSearchRequestDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\RecievedOrderDtos\\RecievedOrderSearchRequestDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\RecievedOrderDtos\\RecievedOrderSearchRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:37:33.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "SearchPurchaseOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\SearchPurchaseOrderDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\SearchPurchaseOrderDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\SearchPurchaseOrderDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\SearchPurchaseOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:44:29.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Api\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Api\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "WrehouseStores.Api\\Controllers\\BaseApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:44:45.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IReceivedOrder.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\IReceivedOrder.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Interfaces\\IReceivedOrder.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\IReceivedOrder.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Interfaces\\IReceivedOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:47:28.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:14:53.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "SalesSupplyFormDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\BillDtos\\SalesSupplyFormDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\BillDtos\\SalesSupplyFormDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\BillDtos\\SalesSupplyFormDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\BillDtos\\SalesSupplyFormDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:27:25.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "SalesSupplyFormWithPaginationDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\BillDtos\\SalesSupplyFormWithPaginationDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\BillDtos\\SalesSupplyFormWithPaginationDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\BillDtos\\SalesSupplyFormWithPaginationDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\BillDtos\\SalesSupplyFormWithPaginationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:59:08.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "SupplierWithPaginationDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\SupplierDtos\\SupplierWithPaginationDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\SupplierDtos\\SupplierWithPaginationDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\SupplierDtos\\SupplierWithPaginationDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\SupplierDtos\\SupplierWithPaginationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:30:47.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "PurchaseOrderAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderAddDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderAddDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderAddDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\PurchaseOrderDtos\\PurchaseOrderAddDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:08:46.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AddReadyOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\AddReadyOrderDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\AddReadyOrderDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\AddReadyOrderDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\AddReadyOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:53:11.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ProductionBillDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\BillDtos\\ProductionBillDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\BillDtos\\ProductionBillDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\BillDtos\\ProductionBillDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\BillDtos\\ProductionBillDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:02:56.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ReadyOrdersWithPaginationDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\ReadyOrdersWithPaginationDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\ReadyOrdersWithPaginationDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\ReadyOrdersWithPaginationDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\ReadyOrdersWithPaginationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:36:56.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ISuppliersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\ISuppliersRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Interfaces\\ISuppliersRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\ISuppliersRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Interfaces\\ISuppliersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:30:32.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "CustomerOrderUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrderUpdateDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrderUpdateDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrderUpdateDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\CustomerOrderUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:13:07.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Suppliers.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Suppliers.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\Suppliers.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Suppliers.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\Suppliers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:36:01.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Shelf.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Shelf.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\Shelf.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Shelf.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\Shelf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:41:55.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Received Orders.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Received Orders.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\Received Orders.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Received Orders.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\Received Orders.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:41:48.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ReadyOrders.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\ReadyOrders.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\ReadyOrders.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\ReadyOrders.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\ReadyOrders.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:41:36.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Priority.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\Priority.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Priority.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\Priority.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:30:50.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Floor.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Floor.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\Floor.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Floor.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\Floor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T09:30:48.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Customers.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Models\\Customers.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Models\\Customers.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Models\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:34:59.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "SupplierDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\SupplierDtos\\SupplierDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\SupplierDtos\\SupplierDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\SupplierDtos\\SupplierDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\SupplierDtos\\SupplierDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:51:58.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "RecievedOrderWithStorageDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\RecievedOrderDtos\\RecievedOrderWithStorageDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\RecievedOrderDtos\\RecievedOrderWithStorageDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\RecievedOrderDtos\\RecievedOrderWithStorageDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\RecievedOrderDtos\\RecievedOrderWithStorageDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:28:10.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "ReadyOrdersDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\ReadyOrdersDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\ReadyOrdersDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerOrderDtos\\ReadyOrdersDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\CustomerOrderDtos\\ReadyOrdersDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:37:41.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "PriorityDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\PriorityDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\PriorityDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\PriorityDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\PriorityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T07:10:24.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\DepartmentDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\DepartmentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:36:42.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "CustomerWithPaginationDto.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerDtos\\CustomerWithPaginationDto.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Dto\\CustomerDtos\\CustomerWithPaginationDto.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Dto\\CustomerDtos\\CustomerWithPaginationDto.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Dto\\CustomerDtos\\CustomerWithPaginationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:48:37.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "20240730080011_UpdateDateToDateTime.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240730080011_UpdateDateToDateTime.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Data\\Migrations\\20240730080011_UpdateDateToDateTime.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240730080011_UpdateDateToDateTime.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Data\\Migrations\\20240730080011_UpdateDateToDateTime.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:00:11.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "20240730073708_UpdateDateToAllowNull.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240730073708_UpdateDateToAllowNull.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Data\\Migrations\\20240730073708_UpdateDateToAllowNull.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240730073708_UpdateDateToAllowNull.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Data\\Migrations\\20240730073708_UpdateDateToAllowNull.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:37:08.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "20240730065649_AddSalesTax.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240730065649_AddSalesTax.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Data\\Migrations\\20240730065649_AddSalesTax.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240730065649_AddSalesTax.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Data\\Migrations\\20240730065649_AddSalesTax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:56:49.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Core\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Core\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "WrehouseStores.Core\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:25:52.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20240729125936_DeleteAvailabilityDateColumn.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240729125936_DeleteAvailabilityDateColumn.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Data\\Migrations\\20240729125936_DeleteAvailabilityDateColumn.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240729125936_DeleteAvailabilityDateColumn.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Data\\Migrations\\20240729125936_DeleteAvailabilityDateColumn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:01:42.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "20240729064721_RemoveCurrentStockFromProduct.cs",
+              "DocumentMoniker": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240729064721_RemoveCurrentStockFromProduct.cs",
+              "RelativeDocumentMoniker": "WrehouseStores.Repository\\Data\\Migrations\\20240729064721_RemoveCurrentStockFromProduct.cs",
+              "ToolTip": "C:\\Users\\merna\\Downloads\\warehouseCopy\\warehouseCopy\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240729064721_RemoveCurrentStockFromProduct.cs",
+              "RelativeToolTip": "WrehouseStores.Repository\\Data\\Migrations\\20240729064721_RemoveCurrentStockFromProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T06:47:21.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "20240728073340_CorrectDecimalAndConstraints.cs",
+              "DocumentMoniker": "C:\\warehouse\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240728073340_CorrectDecimalAndConstraints.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\warehouse\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240728073340_CorrectDecimalAndConstraints.cs",
+              "ToolTip": "C:\\warehouse\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240728073340_CorrectDecimalAndConstraints.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\warehouse\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240728073340_CorrectDecimalAndConstraints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:33:40.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "20240728072604_Update.cs",
+              "DocumentMoniker": "C:\\warehouse\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240728072604_Update.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\warehouse\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240728072604_Update.cs",
+              "ToolTip": "C:\\warehouse\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240728072604_Update.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\warehouse\\WrehouseStores\\WrehouseStores.Repository\\Data\\Migrations\\20240728072604_Update.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T07:26:04.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

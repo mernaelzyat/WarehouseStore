@@ -1,0 +1,238 @@
+# Warehouse Stores Project
+
+## Project Structure
+
+```plaintext
+C:.
+├── project-tree.txt
+├── README.md
+├── WrehouseStores.sln
+├── .github
+│   └── workflows
+├── WrehouseStores.Api
+│   ├── appsettings.Development.json
+│   ├── appsettings.json
+│   ├── Program.cs
+│   ├── WarehouseStores.Api.csproj
+│   ├── WarehouseStores.Api.csproj.user
+│   ├── WeatherForecast.cs
+│   ├── WrehouseStores.Api.http
+│   ├── .config
+│   │   └── dotnet-tools.json
+│   ├── bin
+│   │   ├── Debug
+│   │   │   └── net8.0
+│   │   └── Release
+│   │       └── net8.0
+│   ├── Controllers
+│   │   ├── BaseApiController.cs
+│   │   ├── BillController.cs
+│   │   ├── CategoryController.cs
+│   │   ├── CustomerController.cs
+│   │   ├── CustomerOrderController.cs
+│   │   ├── DashboardController.cs
+│   │   ├── ProductController.cs
+│   │   ├── PurchaseOrderController.cs
+│   │   ├── RecievedOrdersController.cs
+│   │   ├── ReportController.cs
+│   │   ├── StatusController.cs
+│   │   ├── StorageController.cs
+│   │   ├── SupplierController.cs
+│   │   ├── WeatherForecastController.cs
+│   ├── Helper
+│   │   └── Mapper
+│   │       └── MappingProfile.cs
+│   ├── obj
+│   │   ├── project.assets.json
+│   │   ├── project.nuget.cache
+│   │   ├── WarehouseStores.Api.csproj.EntityFrameworkCore.targets
+│   │   ├── WarehouseStores.Api.csproj.nuget.dgspec.json
+│   │   ├── WarehouseStores.Api.csproj.nuget.g.props
+│   │   ├── WarehouseStores.Api.csproj.nuget.g.targets
+│   │   ├── WrehouseStores.Api.csproj.nuget.dgspec.json
+│   │   ├── WrehouseStores.Api.csproj.nuget.g.props
+│   │   ├── WrehouseStores.Api.csproj.nuget.g.targets
+│   │   ├── Debug
+│   │   │   └── net8.0
+│   │   └── Release
+│   │       └── net8.0
+│   ├── Properties
+│   │   ├── launchSettings.json
+│   │   └── PublishProfiles
+│   │       ├── FolderProfile.pubxml
+│   │       ├── FolderProfile.pubxml.user
+│   │       ├── IISProfile.pubxml
+│   │       ├── IISProfile.pubxml.user
+│   │       ├── IISProfile1.pubxml
+│   │       └── IISProfile1.pubxml.user
+├── WrehouseStores.Core
+│   ├── WarehouseStores.Core.csproj
+│   ├── bin
+│   │   ├── Debug
+│   │   │   └── net8.0
+│   │   └── Release
+│   │       └── net8.0
+│   ├── Dto
+│   │   ├── DepartmentDto.cs
+│   │   ├── EmployeeDto.cs
+│   │   ├── PaginationDto.cs
+│   │   ├── PriorityDto.cs
+│   │   ├── BillDtos
+│   │   ├── CategoryDtos
+│   │   ├── CustomerDtos
+│   │   ├── CustomerOrderDtos
+│   │   ├── DashboardDtos
+│   │   ├── ProductDtos
+│   │   ├── PurchaseOrderDtos
+│   │   ├── RecievedOrderDtos
+│   │   ├── ReportDtos
+│   │   ├── StatusDtos
+│   │   └── StorageDtos
+│   ├── Interfaces
+│   │   ├── IBillRepository.cs
+│   │   ├── ICategoryRepository.cs
+│   │   ├── ICustomerOrdersRepository.cs
+│   │   ├── ICustomerRepository.cs
+│   │   ├── IDashboardRepository.cs
+│   │   ├── IProductRepository.cs
+│   │   ├── IPurchaseRepository.cs
+│   │   ├── IReceivedOrder.cs
+│   │   ├── IReportRepository.cs
+│   │   ├── IStatusRepository.cs
+│   │   ├── IStorageRepository.cs
+│   │   └── ISuppliersRepository.cs
+│   ├── Models
+│   │   ├── Bill.cs
+│   │   ├── BillProducts.cs
+│   │   ├── Categories.cs
+│   │   ├── CustomerOrders.cs
+│   │   ├── CustomerOrdersProducts.cs
+│   │   ├── Customers.cs
+│   │   ├── Departments.cs
+│   │   ├── Employees.cs
+│   │   ├── Floor.cs
+│   │   ├── MissingProducts.cs
+│   │   ├── Priority.cs
+│   │   ├── ProductDates.cs
+│   │   ├── Products.cs
+│   │   ├── PurchaseOrderProducts.cs
+│   │   ├── PurchaseOrders.cs
+│   │   ├── ReadyOrders.cs
+│   │   ├── ReadyOrdersProducts.cs
+│   │   ├── Received Orders.cs
+│   │   ├── Shelf.cs
+│   │   ├── Status.cs
+│   │   ├── Stock.cs
+│   │   ├── Storage.cs
+│   │   ├── StorageDepartment.cs
+│   │   └── Suppliers.cs
+│   ├── obj
+│   │   ├── project.assets.json
+│   │   ├── project.nuget.cache
+│   │   ├── WarehouseStores.Core.csproj.nuget.dgspec.json
+│   │   ├── WarehouseStores.Core.csproj.nuget.g.props
+│   │   ├── WarehouseStores.Core.csproj.nuget.g.targets
+│   │   ├── WrehouseStores.Core.csproj.nuget.dgspec.json
+│   │   ├── WrehouseStores.Core.csproj.nuget.g.props
+│   │   ├── WrehouseStores.Core.csproj.nuget.g.targets
+│   │   ├── Debug
+│   │   │   └── net8.0
+│   │   └── Release
+│   │       └── net8.0
+├── WrehouseStores.Repository
+│   ├── WarehouseStores.Repository.csproj
+│   ├── bin
+│   │   ├── Debug
+│   │   │   └── net8.0
+│   │   └── Release
+│   │       └── net8.0
+│   ├── Data
+│   │   └── Migrations
+│   │       ├── InitialCreate.cs
+│   │       ├── InitialCreate.Designer.cs
+│   │       ├── UpdatePriceInProducts.cs
+│   │       ├── UpdatePriceInProducts.Designer.cs
+│   │       ├── AddStorageDepartmentTable.cs
+│   │       ├── AddStorageDepartmentTable.Designer.cs
+│   │       ├── AddPKForStock.cs
+│   │       ├── AddPKForStock.Designer.cs
+│   │       ├── RemoveCurrentStockFromProduct.cs
+│   │       ├── RemoveCurrentStockFromProduct.Designer.cs
+│   │       ├── ChangeDateTime.cs
+│   │       ├── ChangeDateTime.Designer.cs
+│   │       ├── DeleteAvailabilityDateColumn.cs
+│   │       ├── DeleteAvailabilityDateColumn.Designer.cs
+│   │       ├── AddSalesTax.cs
+│   │       ├── AddSalesTax.Designer.cs
+│   │       ├── UpdateDateToAllowNull.cs
+│   │       ├── UpdateDateToAllowNull.Designer.cs
+│   │       ├── UpdateDateToDateTime.cs
+│   │       ├── UpdateDateToDateTime.Designer.cs
+│   │       ├── UpdateDateToDateTimeLast.cs
+│   │       ├── UpdateDateToDateTimeLast.Designer.cs
+│   │       ├── AddPurchaseOrderProductsTable.cs
+│   │       ├── AddPurchaseOrderProductsTable.Designer.cs
+│   │       ├── RemoveUnnecessaryTables.cs
+│   │       ├── RemoveUnnecessaryTables.Designer.cs
+│   │       ├── AddMissingProductsTable.cs
+│   │       ├── AddMissingProductsTable.Designer.cs
+│   │       ├── AddMissingProductsRelation.cs
+│   │       ├── AddMissingProductsRelation.Designer.cs
+│   │       ├── UpdateMissingProductsTable.cs
+│   │       ├── UpdateMissingProductsTable.Designer.cs
+│   │       ├── UpdateMissingProductsTableLast.cs
+│   │       ├── UpdateMissingProductsTableLast.Designer.cs
+│   │       ├── UpdateBill.cs
+│   │       ├── UpdateBill.Designer.cs
+│   │       ├── RemoveForeignKeyFromMissingProducts.cs
+│   │       ├── RemoveForeignKeyFromMissingProducts.Designer.cs
+│   │       └── StorageDbContextModelSnapshot.cs
+│   ├── DBContext
+│   │   └── StorageDbContext.cs
+│   ├── obj
+│   │   ├── project.assets.json
+│   │   ├── project.nuget.cache
+│   │   ├── WarehouseStores.Repository.csproj.nuget.dgspec.json
+│   │   ├── WarehouseStores.Repository.csproj.nuget.g.props
+│   │   ├── WarehouseStores.Repository.csproj.nuget.g.targets
+│   │   ├── WrehouseStores.Repository.csproj.nuget.dgspec.json
+│   │   ├── WrehouseStores.Repository.csproj.nuget.g.props
+│   │   ├── WrehouseStores.Repository.csproj.nuget.g.targets
+│   │   ├── Debug
+│   │   │   └── net8.0
+│   │   └── Release
+│   │       └── net8.0
+│   ├── Repositories
+│   │   ├── BillRepository.cs
+│   │   ├── CategoryRepository.cs
+│   │   ├── CustomerOrderRepository.cs
+│   │   ├── CustomerRepository.cs
+│   │   ├── DashboardRepository.cs
+│   │   ├── ProductRepository.cs
+│   │   ├── PurchaseOrderRepository.cs
+│   │   ├── RecievedOrderRepository.cs
+│   │   ├── ReportRepository.cs
+│   │   ├── StatusRepository.cs
+│   │   ├── StorageRepository.cs
+│   │   └── SupplierRepository.cs
+├── WrehouseStores.Service
+    ├── WarehouseStores.Service.csproj
+    ├── bin
+    │   ├── Debug
+    │   │   └── net8.0
+    │   └── Release
+    │       └── net8.0
+    ├── obj
+    │   ├── project.assets.json
+    │   ├── project.nuget.cache
+    │   ├── WarehouseStores.Service.csproj.nuget.dgspec.json
+    │   ├── WarehouseStores.Service.csproj.nuget.g.props
+    │   ├── WarehouseStores.Service.csproj.nuget.g.targets
+    │   ├── WrehouseStores.Service.csproj.nuget.dgspec.json
+    │   ├── WrehouseStores.Service.csproj.nuget.g.props
+    │   ├── WrehouseStores.Service.csproj.nuget.g.targets
+    │   ├── Debug
+    │   │   └── net8.0
+    │   └── Release
+    │       └── net8.0
+    └── Service

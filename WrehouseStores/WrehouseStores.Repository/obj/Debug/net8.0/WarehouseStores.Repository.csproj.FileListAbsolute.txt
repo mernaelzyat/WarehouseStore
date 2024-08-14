@@ -1,0 +1,53 @@
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Repository.deps.json
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Repository.runtimeconfig.json
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Repository.dll
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Repository.pdb
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Core.dll
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Core.pdb
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.csproj.AssemblyReference.cache
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.AssemblyInfoInputs.cache
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.AssemblyInfo.cs
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.csproj.CoreCompileInputs.cache
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\Warehous.0C0482EC.Up2Date
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.dll
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\refint\WarehouseStores.Repository.dll
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.pdb
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.genruntimeconfig.cache
+C:\warehouse project\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\ref\WarehouseStores.Repository.dll
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Repository.deps.json
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Repository.runtimeconfig.json
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Repository.dll
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Repository.pdb
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Core.dll
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Core.pdb
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.csproj.AssemblyReference.cache
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.AssemblyInfoInputs.cache
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.AssemblyInfo.cs
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.csproj.CoreCompileInputs.cache
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.sourcelink.json
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\Warehous.0C0482EC.Up2Date
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.dll
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\refint\WarehouseStores.Repository.dll
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.pdb
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.genruntimeconfig.cache
+C:\Users\merna.ebrahim\Desktop\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\ref\WarehouseStores.Repository.dll
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.dll
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\refint\WarehouseStores.Repository.dll
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.pdb
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Repository.deps.json
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Repository.runtimeconfig.json
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Repository.dll
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Repository.pdb
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Core.dll
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\bin\Debug\net8.0\WarehouseStores.Core.pdb
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.csproj.AssemblyReference.cache
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.AssemblyInfoInputs.cache
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.AssemblyInfo.cs
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.csproj.CoreCompileInputs.cache
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.sourcelink.json
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\Warehous.0C0482EC.Up2Date
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\WarehouseStores.Repository.genruntimeconfig.cache
+C:\Users\merna\Downloads\WrehouseStores\WrehouseStores.Repository\obj\Debug\net8.0\ref\WarehouseStores.Repository.dll
